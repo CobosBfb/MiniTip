@@ -1,6 +1,8 @@
 # MiniTip
 MiniTip is a free Bitcoin tipping service whose only interface is reddit.
 
+Firebase is used as the database.
+
 Please note that this was a spontaneous project and as such, the code is not well-formed/documented nor the design immaculate, but it works.
 
 See
